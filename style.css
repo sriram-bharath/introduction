@@ -1,0 +1,30 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #73b1f4; /* Light gray background */
+            color: #333; /* Dark text color */
+            text-align: center; /* Center all content */
+        }
+
+        h1 {
+            color: #fbfbfb; /* Blue header text */
+            border-bottom: 2px solid #ccc; /* Bottom border for the header */
+            padding-bottom: 10px;
+        }
+
+        img {
+            max-width: 100%; /* Makes sure the image scales down on smaller screens */
+            height: auto;
+            border: 5px solid #fff; /* White border around the image */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+            border-radius: 10px; /* Rounded corners */
+            margin-top: 15px;
+        }
+
+        p {
+            line-height: 1.6; /* Spacing between lines of text */
+            max-width: 600px;
+            margin: 20px auto; /* Center the paragraph */
+            background-color: #ffffff; /* White background for the text body */
+            border-radius: 8px;
+        }
